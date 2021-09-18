@@ -1,0 +1,1 @@
+# Vignette-Simulating-a-minimal-SPSS-dataset-from-R
